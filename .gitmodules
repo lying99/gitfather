@@ -1,0 +1,3 @@
+[submodule "gitsun"]
+	path = gitsun
+	url = https://github.com/lying99/gitsun
